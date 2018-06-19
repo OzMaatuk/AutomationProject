@@ -1,0 +1,27 @@
+{
+  "Student": {
+      "user": "305181158",
+      "password": "6324",
+      "editEnable": "False",
+      "editUnable": "44848"},
+  "PracticalLecture": {
+      "user": "305181158",
+      "password": "6324",
+      "editEnable": "62186",
+      "editUnable": "44848"},
+  "BadUser": {
+      "user": "1111",
+      "password": "1111",
+      "editEnable": "False",
+      "editUnable": "False"},
+  "BadStudentPass": {
+        "user": "305181158",
+        "password": "1111",
+        "editEnable": "False",
+        "editUnable": "False"},
+  "BadPracticalLecturePass": {
+          "user": "305181158",
+          "password": "1111",
+          "editEnable": "False",
+          "editUnable": "False"}
+}
