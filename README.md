@@ -21,13 +21,13 @@ task was tested with FireFox 46.0
 ## this project is an automated testunit for ariel university moodlearn webpage
 
 for starting up use the following commandline and args
-    python MoodleTest.py https://moodlearn.ariel.ac.il/ 305181158 6324
+        python MoodleTest.py https://moodlearn.ariel.ac.il/ username password
     
 for working with newer version of firefox run with --new
-    python MoodleTest.py https://moodlearn.ariel.ac.il/ 305181158 6324 --new
+        python MoodleTest.py https://moodlearn.ariel.ac.il/ username password --new
     
 for working with chrome run with --chrome
-    python MoodleTest.py https://moodlearn.ariel.ac.il/ 305181158 6324 --chrome
+        python MoodleTest.py https://moodlearn.ariel.ac.il/ username password --chrome
 
 
 
