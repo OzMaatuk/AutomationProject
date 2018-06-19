@@ -38,8 +38,6 @@ for working with chrome run with --chrome
 
 
 
-###introducing tests scenarios in TestCases.py
-
 
 
 ## Background
@@ -48,8 +46,11 @@ for working with chrome run with --chrome
 the tests implemented as a unittest followed python unittest package,
 where every test implement a simple scenario of actions over ariel moodlearn web pages.
 
+introducing tests scenarios in TestCases.py
+
 enjoying unittest framework features
     https://docs.python.org/2/library/unittest.html
+    
     
 the project OOP structure builded following page object desing pattern,
 when presenting every page in the web as c class thats include all the actions on thhat page,
